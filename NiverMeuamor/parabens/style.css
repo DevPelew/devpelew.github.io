@@ -1,0 +1,23 @@
+* {
+    font-family: cursive;
+}
+
+body {
+    background-color: #000;
+    color: rgb(255, 255, 255);
+    
+}
+
+.um {
+    text-align: center;
+    display: inline-block;
+}
+
+footer {
+    text-align: center;
+}
+
+.foto {
+    border: 1px solid #fff;
+    display: inline-block;
+}
